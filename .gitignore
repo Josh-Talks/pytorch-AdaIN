@@ -26,6 +26,7 @@ events.*
 *.png
 *.pdf
 *.yaml
+**/.DS_Store
 
 # pytorch checkpoints
 *.pt
